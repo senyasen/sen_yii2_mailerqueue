@@ -25,7 +25,7 @@
 
     "autoload": {
         "psr-4": {
-            "doctorjason\\mailerqueue\\": "src/"
+            "sen\\mailerqueue\\": "src/"
         }
     }
 }

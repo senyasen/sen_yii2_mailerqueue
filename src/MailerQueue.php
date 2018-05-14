@@ -1,5 +1,5 @@
 <?php
-namespace app\vendor\doctorjason\mailerqueue;
+namespace sen\mailerqueue;
 
 use Yii;
 
