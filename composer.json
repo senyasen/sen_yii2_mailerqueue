@@ -1,5 +1,5 @@
 {
-    "name": "doctorjason/mailerqueue",
+    "name": "sen/mailerqueue",
 
     "type": "yii2-extension",
 
@@ -7,9 +7,9 @@
     "keywords": ["yii2", "redis", "async", "mailer"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/senyasen/yks_yii2_mailerqueue/issues",
+        "issues": "https://github.com/senyasen/sen_yii2_mailerqueue/issues",
         "forum": "http://www.mr-senyasen.com",
-        "source": "https://github.com/senyasen/yks_yii2_mailerqueue"
+        "source": "https://github.com/senyasen/sen_yii2_mailerqueue"
     },
     "authors": [
         {
