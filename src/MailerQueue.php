@@ -1,5 +1,5 @@
 <?php
-namespace sen\mailerqueue;
+namespace haha\mailerqueue;
 
 use Yii;
 

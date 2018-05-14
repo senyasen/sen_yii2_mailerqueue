@@ -1,5 +1,5 @@
 {
-    "name": "sen/mailerqueue",
+    "name": "haha/mailerqueue",
 
     "type": "yii2-extension",
 
@@ -25,7 +25,7 @@
 
     "autoload": {
         "psr-4": {
-            "sen\\mailerqueue\\": "src/"
+            "haha\\mailerqueue\\": "src/"
         }
     }
 }
